@@ -2,7 +2,7 @@ sourcecode:
   type: git
   location:
     origin: https://github.com/bmwilliamsca/busybar-timecard.git
-    commit_sha: <40-char-commit-sha>  # v0.1.0
+    commit_sha: f3d403cb263c2b524f9f1d24af64c4831fa1d006 # v0.1.0
 
 category: productivity
 
