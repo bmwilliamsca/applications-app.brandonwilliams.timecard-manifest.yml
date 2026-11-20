@@ -1,0 +1,28 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/bmwilliamsca/busybar-timecard.git
+    commit_sha: <40-char-commit-sha>  # v0.1.0
+
+category: productivity
+
+short_description: Clock in, track breaks, toggle meeting mode, and watch your workday fill up.
+
+description: |
+  Timecard turns your BUSY Bar into a desk workday tracker with a live progress bar.
+
+  **Features**
+  - Track your shift progress, breaks, and overtime on the 72x16 display
+  - Spin the wheel while working to switch between Elapsed, Remaining, Percent, Clock-out time, and Clock + Timer views
+  - Hold OK or START to toggle "In a Meeting" status anytime without stopping your timer
+  - Tap OK or START to take a Break, and spin the wheel while on break to nudge your worked time in 5-minute steps
+  - Hold BACK to reset your shift, plus automatic next-day resets
+  - Customize colors for working, meeting mode, breaks, overtime, and shift completion
+
+changelog: |
+  Initial release of Timecard with shift tracking, break mode, rotary wheel view switching, 5-minute time nudges, long-press "In a Meeting" toggle, shift reset, and customizable display colors.
+
+screenshots:
+  - screenshots/working.png
+  - screenshots/meeting.png
+  - screenshots/Break.png
